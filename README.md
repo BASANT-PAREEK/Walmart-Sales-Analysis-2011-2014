@@ -3,13 +3,19 @@
 
 °With the help of this project we can analyse the sales data of Walmart from 2011-2014.
 
-##Description:
+<h2>📝Description:</h2>
 The analysis was performed using Jupyter Notebook, which is an open-source web application that allows you to create and share documents that contain live code, equations, visualizations, and narrative text.
 
-Requirements
+<h1>💻Installation</h1>
+<h2>🛠Requirements:</h2>
+
 Jupyter Notebook
+
 Pandas
+
 NumPy
+
 Matplotlib
+
 Seaborn
 
